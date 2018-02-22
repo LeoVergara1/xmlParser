@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RESPONSE>
+    <MULTIPLE>
+        <SINGLE>
+            <KEY name="id">
+                <VALUE>17</VALUE>
+            </KEY>
+            <KEY name="username">
+                <VALUE>vi.mendoza</VALUE>
+            </KEY>
+            <KEY name="firstname">
+                <VALUE>VICTOR ILICH</VALUE>
+            </KEY>
+            <KEY name="lastname">
+                <VALUE>MENDOZA*CELIS</VALUE>
+            </KEY>
+            <KEY name="fullname">
+                <VALUE>VICTOR ILICH MENDOZA*CELIS</VALUE>
+            </KEY>
+            <KEY name="email">
+                <VALUE>vi.mendoza@ebc.edu.mx</VALUE>
+            </KEY>
+            <KEY name="address">
+                <VALUE null="null"/>
+            </KEY>
+            <KEY name="phone1">
+                <VALUE null="null"/>
+            </KEY>
+            <KEY name="phone2">
+                <VALUE null="null"/>
+            </KEY>
+            <KEY name="icq">
+                <VALUE null="null"/>
+            </KEY>
+            <KEY name="skype">
+                <VALUE null="null"/>
+            </KEY>
+            <KEY name="yahoo">
+                <VALUE null="null"/>
+            </KEY>
+            <KEY name="aim">
+                <VALUE null="null"/>
+            </KEY>
+            <KEY name="msn">
+                <VALUE null="null"/>
+            </KEY>
+            <KEY name="department">
+                <VALUE></VALUE>
+            </KEY>
+            <KEY name="institution">
+                <VALUE null="null"/>
+            </KEY>
+            <KEY name="idnumber">
+                <VALUE null="null"/>
+            </KEY>
+            <KEY name="interests">
+                <VALUE null="null"/>
+            </KEY>
+            <KEY name="firstaccess">
+                <VALUE>1366127456</VALUE>
+            </KEY>
+            <KEY name="lastaccess">
+                <VALUE>1519328292</VALUE>
+            </KEY>
+            <KEY name="description">
+                <VALUE></VALUE>
+            </KEY>
+            <KEY name="descriptionformat">
+                <VALUE>1</VALUE>
+            </KEY>
+            <KEY name="city">
+                <VALUE>Mexico</VALUE>
+            </KEY>
+            <KEY name="url">
+                <VALUE null="null"/>
+            </KEY>
+            <KEY name="country">
+                <VALUE>MX</VALUE>
+            </KEY>
+            <KEY name="profileimageurlsmall">
+                <VALUE>https://mdev.ebc.edu.mx/theme/image.php/clean/core/1518495756/u/f2</VALUE>
+            </KEY>
+            <KEY name="profileimageurl">
+                <VALUE>https://mdev.ebc.edu.mx/theme/image.php/clean/core/1518495756/u/f1</VALUE>
+            </KEY>
+            <KEY name="customfields">
+                <MULTIPLE></MULTIPLE>
+            </KEY>
+            <KEY name="groups">
+                <MULTIPLE></MULTIPLE>
+            </KEY>
+            <KEY name="roles">
+                <MULTIPLE>
+                    <SINGLE>
+                        <KEY name="roleid">
+                            <VALUE>3</VALUE>
+                        </KEY>
+                        <KEY name="name">
+                            <VALUE>Profesor</VALUE>
+                        </KEY>
+                        <KEY name="shortname">
+                            <VALUE>teacher</VALUE>
+                        </KEY>
+                        <KEY name="sortorder">
+                            <VALUE>0</VALUE>
+                        </KEY>
+                    </SINGLE>
+                </MULTIPLE>
+            </KEY>
+            <KEY name="preferences">
+                <MULTIPLE>
+                    <SINGLE>
+                        <KEY name="name">
+                            <VALUE>admin_bookmarks</VALUE>
+                        </KEY>
+                        <KEY name="value">
+                            <VALUE>enrolsettingsconduit</VALUE>
+                        </KEY>
+                    </SINGLE>
+                    <SINGLE>
+                        <KEY name="name">
+                            <VALUE>auth_forcepasswordchange</VALUE>
+                        </KEY>
+                        <KEY name="value">
+                            <VALUE>0</VALUE>
+                        </KEY>
+                    </SINGLE>
+                    <SINGLE>
+                        <KEY name="name">
+                            <VALUE>definerole_showadvanced</VALUE>
+                        </KEY>
+                        <KEY name="value">
+                            <VALUE>1</VALUE>
+                        </KEY>
+                    </SINGLE>
+                    <SINGLE>
+                        <KEY name="name">
+                            <VALUE>feed_edit_form_showadvanced</VALUE>
+                        </KEY>
+                        <KEY name="value">
+                            <VALUE>1</VALUE>
+                        </KEY>
+                    </SINGLE>
+                    <SINGLE>
+                        <KEY name="name">
+                            <VALUE>filepicker_recentlicense</VALUE>
+                        </KEY>
+                        <KEY name="value">
+                            <VALUE>allrightsreserved</VALUE>
+                        </KEY>
+                    </SINGLE>
+                    <SINGLE>
+                        <KEY name="name">
+                            <VALUE>filepicker_recentrepository</VALUE>
+                        </KEY>
+                        <KEY name="value">
+                            <VALUE>3</VALUE>
+                        </KEY>
+                    </SINGLE>
+                    <SINGLE>
+                        <KEY name="name">
+                            <VALUE>grade_report_grader_collapsed_categories</VALUE>
+                        </KEY>
+                        <KEY name="value">
+                            <VALUE>a:2:{s:14:&quot;aggregatesonly&quot;;a:0:{}s:10:&quot;gradesonly&quot;;a:1:{i:0;s:2:&quot;10&quot;;}}</VALUE>
+                        </KEY>
+                    </SINGLE>
+                    <SINGLE>
+                        <KEY name="name">
+                            <VALUE>login_failed_count_since_success</VALUE>
+                        </KEY>
+                        <KEY name="value">
+                            <VALUE>65</VALUE>
+                        </KEY>
+                    </SINGLE>
+                    <SINGLE>
+                        <KEY name="name">
+                            <VALUE>mod_assign_mod_form_showadvanced</VALUE>
+                        </KEY>
+                        <KEY name="value">
+                            <VALUE>1</VALUE>
+                        </KEY>
+                    </SINGLE>
+                    <SINGLE>
+                        <KEY name="name">
+                            <VALUE>question_bank_qbshowtext</VALUE>
+                        </KEY>
+                        <KEY name="value">
+                            <VALUE>0</VALUE>
+                        </KEY>
+                    </SINGLE>
+                    <SINGLE>
+                        <KEY name="name">
+                            <VALUE>question_bank_recurse</VALUE>
+                        </KEY>
+                        <KEY name="value">
+                            <VALUE>1</VALUE>
+                        </KEY>
+                    </SINGLE>
+                    <SINGLE>
+                        <KEY name="name">
+                            <VALUE>question_bank_showhidden</VALUE>
+                        </KEY>
+                        <KEY name="value">
+                            <VALUE>0</VALUE>
+                        </KEY>
+                    </SINGLE>
+                    <SINGLE>
+                        <KEY name="name">
+                            <VALUE>userselector_autoselectunique</VALUE>
+                        </KEY>
+                        <KEY name="value">
+                            <VALUE>0</VALUE>
+                        </KEY>
+                    </SINGLE>
+                    <SINGLE>
+                        <KEY name="name">
+                            <VALUE>userselector_preserveselected</VALUE>
+                        </KEY>
+                        <KEY name="value">
+                            <VALUE>0</VALUE>
+                        </KEY>
+                    </SINGLE>
+                    <SINGLE>
+                        <KEY name="name">
+                            <VALUE>userselector_searchanywhere</VALUE>
+                        </KEY>
+                        <KEY name="value">
+                            <VALUE>0</VALUE>
+                        </KEY>
+                    </SINGLE>
+                    <SINGLE>
+                        <KEY name="name">
+                            <VALUE>_lastloaded</VALUE>
+                        </KEY>
+                        <KEY name="value">
+                            <VALUE>1519328292</VALUE>
+                        </KEY>
+                    </SINGLE>
+                </MULTIPLE>
+            </KEY>
+            <KEY name="enrolledcourses">
+                <MULTIPLE>
+                    <SINGLE>
+                        <KEY name="id">
+                            <VALUE>13234</VALUE>
+                        </KEY>
+                        <KEY name="fullname">
+                            <VALUE>MER23432-P SEGMENTACIÓN DE MERCADOS(172001300/TLA)</VALUE>
+                        </KEY>
+                        <KEY name="shortname">
+                            <VALUE>172001300-M</VALUE>
+                        </KEY>
+                    </SINGLE>
+                    <SINGLE>
+                        <KEY name="id">
+                            <VALUE>17128</VALUE>
+                        </KEY>
+                        <KEY name="fullname">
+                            <VALUE>MER23432-P SEGMENTACIÓN DE MERCADOS(172001300/TLA)</VALUE>
+                        </KEY>
+                        <KEY name="shortname">
+                            <VALUE>175003073-175003264</VALUE>
+                        </KEY>
+                    </SINGLE>
+                    <SINGLE>
+                        <KEY name="id">
+                            <VALUE>17405</VALUE>
+                        </KEY>
+                        <KEY name="fullname">
+                            <VALUE>NEG37102 Negocios (179408128/VIR)</VALUE>
+                        </KEY>
+                        <KEY name="shortname">
+                            <VALUE>179408128</VALUE>
+                        </KEY>
+                    </SINGLE>
+                </MULTIPLE>
+            </KEY>
+        </SINGLE>
+        <SINGLE>
+            <KEY name="id">
+                <VALUE>55</VALUE>
+            </KEY>
+            <KEY name="username">
+                <VALUE>r.martinez026</VALUE>
+            </KEY>
+            <KEY name="firstname">
+                <VALUE>RODRIGO</VALUE>
+            </KEY>
+            <KEY name="lastname">
+                <VALUE>MARTINEZ*GARCIA</VALUE>
+            </KEY>
+            <KEY name="fullname">
+                <VALUE>RODRIGO MARTINEZ*GARCIA</VALUE>
+            </KEY>
+            <KEY name="email">
+                <VALUE>r.martinez026@ebc.edu.mx</VALUE>
+            </KEY>
+            <KEY name="address">
+                <VALUE null="null"/>
+            </KEY>
+            <KEY name="phone1">
+                <VALUE null="null"/>
+            </KEY>
+            <KEY name="phone2">
+                <VALUE null="null"/>
+            </KEY>
+            <KEY name="icq">
+                <VALUE null="null"/>
+            </KEY>
+            <KEY name="skype">
+                <VALUE null="null"/>
+            </KEY>
+            <KEY name="yahoo">
+                <VALUE null="null"/>
+            </KEY>
+            <KEY name="aim">
+                <VALUE null="null"/>
+            </KEY>
+            <KEY name="msn">
+                <VALUE null="null"/>
+            </KEY>
+            <KEY name="department">
+                <VALUE></VALUE>
+            </KEY>
+            <KEY name="institution">
+                <VALUE null="null"/>
+            </KEY>
+            <KEY name="idnumber">
+                <VALUE null="null"/>
+            </KEY>
+            <KEY name="interests">
+                <VALUE null="null"/>
+            </KEY>
+            <KEY name="firstaccess">
+                <VALUE>1372808929</VALUE>
+            </KEY>
+            <KEY name="lastaccess">
+                <VALUE>1373060252</VALUE>
+            </KEY>
+            <KEY name="description">
+                <VALUE null="null"/>
+            </KEY>
+            <KEY name="descriptionformat">
+                <VALUE null="null"/>
+            </KEY>
+            <KEY name="city">
+                <VALUE null="null"/>
+            </KEY>
+            <KEY name="url">
+                <VALUE null="null"/>
+            </KEY>
+            <KEY name="country">
+                <VALUE null="null"/>
+            </KEY>
+            <KEY name="profileimageurlsmall">
+                <VALUE>https://mdev.ebc.edu.mx/theme/image.php/clean/core/1518495756/u/f2</VALUE>
+            </KEY>
+            <KEY name="profileimageurl">
+                <VALUE>https://mdev.ebc.edu.mx/theme/image.php/clean/core/1518495756/u/f1</VALUE>
+            </KEY>
+            <KEY name="customfields">
+                <MULTIPLE></MULTIPLE>
+            </KEY>
+            <KEY name="groups">
+                <MULTIPLE></MULTIPLE>
+            </KEY>
+            <KEY name="roles">
+                <MULTIPLE>
+                    <SINGLE>
+                        <KEY name="roleid">
+                            <VALUE>5</VALUE>
+                        </KEY>
+                        <KEY name="name">
+                            <VALUE>Student</VALUE>
+                        </KEY>
+                        <KEY name="shortname">
+                            <VALUE>student</VALUE>
+                        </KEY>
+                        <KEY name="sortorder">
+                            <VALUE>0</VALUE>
+                        </KEY>
+                    </SINGLE>
+                </MULTIPLE>
+            </KEY>
+            <KEY name="preferences">
+                <MULTIPLE></MULTIPLE>
+            </KEY>
+            <KEY name="enrolledcourses">
+                <MULTIPLE>
+                    <SINGLE>
+                        <KEY name="id">
+                            <VALUE>229</VALUE>
+                        </KEY>
+                        <KEY name="fullname">
+                            <VALUE>SIS23202-P PENSAMIENTO DE DISEÑO</VALUE>
+                        </KEY>
+                        <KEY name="shortname">
+                            <VALUE>SIS23202-P</VALUE>
+                        </KEY>
+                    </SINGLE>
+                    <SINGLE>
+                        <KEY name="id">
+                            <VALUE>17128</VALUE>
+                        </KEY>
+                        <KEY name="fullname">
+                            <VALUE>MER23432-P SEGMENTACIÓN DE MERCADOS(172001300/TLA)</VALUE>
+                        </KEY>
+                        <KEY name="shortname">
+                            <VALUE>175003073-175003264</VALUE>
+                        </KEY>
+                    </SINGLE>
+                    <SINGLE>
+                        <KEY name="id">
+                            <VALUE>17405</VALUE>
+                        </KEY>
+                        <KEY name="fullname">
+                            <VALUE>NEG37102 Negocios (179408128/VIR)</VALUE>
+                        </KEY>
+                        <KEY name="shortname">
+                            <VALUE>179408128</VALUE>
+                        </KEY>
+                    </SINGLE>
+                </MULTIPLE>
+            </KEY>
+        </SINGLE>
+        <SINGLE>
+            <KEY name="id">
+                <VALUE>281</VALUE>
+            </KEY>
+            <KEY name="username">
+                <VALUE>ja.amador002</VALUE>
+            </KEY>
+            <KEY name="firstname">
+                <VALUE>JESSICA ANAHI</VALUE>
+            </KEY>
+            <KEY name="lastname">
+                <VALUE>AMADOR*VIZCAYA</VALUE>
+            </KEY>
+            <KEY name="fullname">
+                <VALUE>JESSICA ANAHI AMADOR*VIZCAYA</VALUE>
+            </KEY>
+            <KEY name="email">
+                <VALUE>ja.amador002@ebc.edu.mx</VALUE>
+            </KEY>
+            <KEY name="address">
+                <VALUE null="null"/>
+            </KEY>
+            <KEY name="phone1">
+                <VALUE null="null"/>
+            </KEY>
+            <KEY name="phone2">
+                <VALUE null="null"/>
+            </KEY>
+            <KEY name="icq">
+                <VALUE null="null"/>
+            </KEY>
+            <KEY name="skype">
+                <VALUE null="null"/>
+            </KEY>
+            <KEY name="yahoo">
+                <VALUE null="null"/>
+            </KEY>
+            <KEY name="aim">
+                <VALUE null="null"/>
+            </KEY>
+            <KEY name="msn">
+                <VALUE null="null"/>
+            </KEY>
+            <KEY name="department">
+                <VALUE></VALUE>
+            </KEY>
+            <KEY name="institution">
+                <VALUE null="null"/>
+            </KEY>
+            <KEY name="idnumber">
+                <VALUE null="null"/>
+            </KEY>
+            <KEY name="interests">
+                <VALUE null="null"/>
+            </KEY>
+            <KEY name="firstaccess">
+                <VALUE>1488467197</VALUE>
+            </KEY>
+            <KEY name="lastaccess">
+                <VALUE>1502475291</VALUE>
+            </KEY>
+            <KEY name="description">
+                <VALUE null="null"/>
+            </KEY>
+            <KEY name="descriptionformat">
+                <VALUE null="null"/>
+            </KEY>
+            <KEY name="city">
+                <VALUE null="null"/>
+            </KEY>
+            <KEY name="url">
+                <VALUE null="null"/>
+            </KEY>
+            <KEY name="country">
+                <VALUE null="null"/>
+            </KEY>
+            <KEY name="profileimageurlsmall">
+                <VALUE>https://mdev.ebc.edu.mx/theme/image.php/clean/core/1518495756/u/f2</VALUE>
+            </KEY>
+            <KEY name="profileimageurl">
+                <VALUE>https://mdev.ebc.edu.mx/theme/image.php/clean/core/1518495756/u/f1</VALUE>
+            </KEY>
+            <KEY name="customfields">
+                <MULTIPLE></MULTIPLE>
+            </KEY>
+            <KEY name="groups">
+                <MULTIPLE></MULTIPLE>
+            </KEY>
+            <KEY name="roles">
+                <MULTIPLE>
+                    <SINGLE>
+                        <KEY name="roleid">
+                            <VALUE>13</VALUE>
+                        </KEY>
+                        <KEY name="name">
+                            <VALUE>supervisorDocente</VALUE>
+                        </KEY>
+                        <KEY name="shortname">
+                            <VALUE>supervisor</VALUE>
+                        </KEY>
+                        <KEY name="sortorder">
+                            <VALUE>0</VALUE>
+                        </KEY>
+                    </SINGLE>
+                </MULTIPLE>
+            </KEY>
+            <KEY name="preferences">
+                <MULTIPLE></MULTIPLE>
+            </KEY>
+            <KEY name="enrolledcourses">
+                <MULTIPLE>
+                    <SINGLE>
+                        <KEY name="id">
+                            <VALUE>269</VALUE>
+                        </KEY>
+                        <KEY name="fullname">
+                            <VALUE>ECO23404-P MACROECONOMÍA CERRADA (Curso / Prueba)</VALUE>
+                        </KEY>
+                        <KEY name="shortname">
+                            <VALUE>Licenciatura</VALUE>
+                        </KEY>
+                    </SINGLE>
+                    <SINGLE>
+                        <KEY name="id">
+                            <VALUE>17405</VALUE>
+                        </KEY>
+                        <KEY name="fullname">
+                            <VALUE>NEG37102 Negocios (179408128/VIR)</VALUE>
+                        </KEY>
+                        <KEY name="shortname">
+                            <VALUE>179408128</VALUE>
+                        </KEY>
+                    </SINGLE>
+                </MULTIPLE>
+            </KEY>
+        </SINGLE>
+    </MULTIPLE>
+</RESPONSE>
